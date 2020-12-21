@@ -1,2 +1,1 @@
-# Dicee
-Dicee Website
+Simple dicee rolling game
